@@ -17,7 +17,9 @@ h1 {
 h3 {
     font-size: 36px;
     font-style: italic;
-
+}
+h3 span {
+    font-weight: bold;
 }
 
 .poem {
