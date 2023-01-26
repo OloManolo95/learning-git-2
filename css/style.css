@@ -1,29 +1,29 @@
 body {
-    line-height: 1.7;
-    font-size: 24px;
+    line-height: 0.7;
+    font-size: 18px;
     font-family: serif;
+    margin: auto;
+    width: 33%;
 }
 
 header {
-    margin: 46px 12px;
+    margin: 46px auto;
 }
+
 h1 {
-    font-size: 72px;
+    font-size: 42px;
     font-weight:bold;
     font-variant: small-caps;
 }
 
 h3 {
-    font-size: 36px;
+    font-size: 24px;
     font-style: italic;
 }
 h3 span {
     font-weight: bold;
 }
 
-.poem {
-    margin-left: 12px;
-}
 .verse {
     margin-bottom: 24px;
 }
